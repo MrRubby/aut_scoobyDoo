@@ -1,6 +1,6 @@
 {"data":
 [
   {"id":"0","game":"CSGO","server":"STEAM","cheatname":"GlowEsp","state":"Undetected","version":"1.0.0","dllname":"csglowesp.json","exename":"csgo.exe","isexternal":"false","thread":"www.google.com.tr" 
-  },
+  }
 ]
 }
